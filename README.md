@@ -10,8 +10,7 @@ Minhas principais ferramentas e tecnologias para a jornada do dado:
 
 * **Linguagens de Programação:** **Python** (Pandas, NumPy).
 * **Consultas e Bancos de Dados:** **SQL** (Foco em **BigQuery**), Conhecimento em Modelagem de Dados e manipulação de dados em ambientes SQL.
-* **Visualização de Dados:** **Tableau**, Power BI, Matplotlib, Seaborn.
-* **Estatística:** Testes A/B, Análise de Regressão, Estatística Descritiva.
+* **Visualização de Dados:** **Tableau**, Power BI.
 * **Outras Ferramentas:** Microsoft Excel (Avançado), Google Sheets, Git, Conceitos de ETL.
 
 ---
